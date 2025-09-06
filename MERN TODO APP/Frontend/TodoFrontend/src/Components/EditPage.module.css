@@ -1,0 +1,21 @@
+.title{
+  margin: 10px;
+  color: orchid;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  font-size: x-large;
+}
+
+.table{
+ border-collapse: collapse;
+ overflow: hidden;
+ min-width: 300px;
+ border-radius: 10px;
+}
+.thead{
+  background-color: rgb(70, 70, 209);
+
+}
+.common{
+  cursor: pointer;
+}
